@@ -59,7 +59,7 @@ The dashboard is built using banking-related datasets, including:
 3. Use slicers and filters to explore specific segments or periods.
 
 ## **Walkthrough Of the Project**
-**GROUP PRESENTATION :**[LINK](https://youtu.be/Qp5rof-oumI)
+**GROUP PRESENTATION :**[LINK](https://drive.google.com/file/d/1Bnnp3Np7Se9kA-O0W9pw1MSoxB3d6WX4/view?usp=drive_link)
 
 ## **Screenshots**📸
 ![Screenshot (13)](https://github.com/user-attachments/assets/8307d388-d1e8-4b69-af5d-a1cbad1958b1)
